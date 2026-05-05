@@ -3,17 +3,17 @@
 A third-person combat game built in Unity using C#.  
 The project focuses on melee combat mechanics, weapon switching
 
-## 🛠️ Tech Stack
-
-- **Engine:** Unity
-- **Language:** C#
-
 ## ⚙️ Features
 
 - Third-person character controller
 - Camera follow system
 - **3 melee weapons**
 - Weapon switching system
+
+## 🛠️ Tech Stack
+
+- **Engine:** Unity
+- **Language:** C#
 
 ## 🚀 Getting Started
 
